@@ -7,13 +7,13 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Clayton.
-            <br className="hidden lg:inline-block" />I love to build amazing
+            <br className="hidden lg:inline-block" />I love to build
             websites & apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I have worked as a sales person, marketr and developer
-            which makes have a unique skillset. I have worked with many different
-            technologies and I am always looking to learn more.
+            I have experience working in the sales, marketing and development industries
+            which has provided me with a unique skillset. I have worked with many different
+            technologies, and I am always looking to learn more. My next venture is to practice coding in python. Please see the "Skills" section of the website for a comprehensive list of the specific programs and languages which I am experienced in.
           </p>
           <div className="flex justify-center">
             <a

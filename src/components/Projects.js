@@ -12,7 +12,7 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            These are some of the projects I have worked on. I have worked on a few more but these are the ones I am most proud of.
+            Here are some examples of the projects I have worked on which I am most proud of.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

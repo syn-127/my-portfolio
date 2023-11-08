@@ -12,7 +12,7 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            This is the skillset i have learned over the years. I started off in a call center then worked as a marketer 4 years ago and now I have been working as a developer for a few years.
+            This is a brief summary of the skillset I have gained in recent years. In terms of my background, I progressed quickly from working in a call center to a job within the marketing sector of the company. On being made aware of my proficiency with coding and web development I was offered a job as a developer in this setting, and have remained, furthering my knowledge and experience in this sector over the last 3 years.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

@@ -20,6 +20,9 @@ export default function Navbar() {
           <a href="#testimonials" className="mr-5 hover:text-white">
             Testimonials
           </a>
+          <a href="https://blog.claytonsampere.co.uk/" className="mr-5 hover:text-white">
+            Blog
+          </a>
         </nav>
         <a
           href="#contact"

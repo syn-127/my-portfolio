@@ -36,16 +36,15 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed/v1/place?q=Broad+Walk,+London+SE3+8ND,+UK&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19882.973266383186!2d0.027670148434931065!3d51.46969199548474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a82c31be8df5%3A0xc53a690c16967992!2sLondon%20SE3!5e0!3m2!1sen!2suk!4v1685805131269!5m2!1sen!2suk"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
-            <div className="lg:w-1/2 px-6">
+            <div className="lg:w-1/0.2 px-6">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
-                ADDRESS
+                LOCATION
               </h2>
               <p className="mt-1">
-                36 Broad Walk <br />
-                London, SE3 8NB
+              SE3
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -71,7 +70,7 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            I am sure I won't disapoint, let me know what you need done and I will get back to you as soon as possible.
+            Please feel free to contact me with any queries and I will get back to you as soon as possible.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
